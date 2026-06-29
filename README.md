@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-schlussel-zum-herzen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Der Schlüssel zum Herzen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-schlussel-zum-herzen/) |
+| **Get License** | [Music Rights & Licensing for Der Schlüssel zum Herzen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-schlussel-zum-herzen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Skyline verschwimmt, Baby, ich seh' nur dein Licht
+> Drück' aufs Gaspedal durch, voller Fokus auf dich
+> Dein Lächeln ist Gift, aber süchtig und pur
+> Gib mir den Schlüssel zum Herzen, es gibt keine Kur
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
