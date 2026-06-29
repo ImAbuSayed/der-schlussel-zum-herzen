@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-schlussel-zum-herzen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Der Schlüssel zum Herzen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-schlussel-zum-herzen/) |
+| **Get License** | [Get a Licensing Quote for Der Schlüssel zum Herzen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-schlussel-zum-herzen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2359381008e9cae4483e083df63dc3d9ed87d3e83da9d8e7c1a1ec14e8283d3c` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

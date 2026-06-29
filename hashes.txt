@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Der Schlüssel zum Herzen
+
+This log tracks the cryptographic history and versioning for the song **Der Schlüssel zum Herzen** (der-schlussel-zum-herzen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T04:21:09.504305 | `v1` | `2359381008e9cae4483e083df63dc3d9ed87d3e83da9d8e7c1a1ec14e8283d3c` | `2dfc3692b800e2ee90521d97f2a00f6c969af5a4a4ac77a6841395ea44ca12dc` | `2026-06-30_der-schlussel-zum-herzen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
